@@ -16,6 +16,8 @@
 <p>To use the Simple Calculator (HTML, CSS, and JavaScript) version, simply download the index.html, style.css, and script.js files and open the index.html file in your web browser.</p>
 
 <h2>Simple Calculator (HTML, CSS, and JavaScript)</h2>
+<img src = "https://user-images.githubusercontent.com/88302656/221425926-f4907fc5-ad87-42fb-af9e-7f91c2d77a86.jpg">
+
 
 <p>If you want something a little fancier, the Simple Calculator (HTML, CSS, and JavaScript) version is the way to go. With a sleek and stylish design, this calculator is perfect for those who like a little bit of flair with their number-crunching.</p>
 
