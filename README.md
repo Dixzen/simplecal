@@ -24,6 +24,8 @@
 <p>To use the Simple Calculator (HTML, CSS, and JavaScript) version, simply download the index.html, style.css, and script.js files and open the index.html file in your web browser.</p>
 
 <h2>Scientific Calculator (HTML, CSS, and JavaScript)</h2>
+<img src = "https://user-images.githubusercontent.com/88302656/221413865-8f4729a9-0ab3-417f-8655-3d81c37959e8.png">
+
 
 <p>Ready to take your math skills to the next level? The Scientific Calculator (HTML, CSS, and JavaScript) version is here to blow your mind! With advanced mathematical functions, this calculator is perfect for students, engineers, or anyone who needs to solve complex equations.</p>
 
