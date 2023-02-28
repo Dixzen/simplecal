@@ -8,7 +8,7 @@ class Calculator {
     }
 
     clear() {
-        this.currentOperand = ''
+        this.currentOperand = '0'
         this.previousOperand = ''
         this.operation = undefined
     }
@@ -16,7 +16,7 @@ class Calculator {
     delete() {
         this.currentOperand = this.currentOperand.toString().slice(0, -1)
         if(this.currentOperand == ''){
-            this.currentOperand = ''
+            this.currentOperand = '0'
         }
     }
 
