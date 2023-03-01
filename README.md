@@ -9,6 +9,7 @@
 <h2>Simple Calculator (Python)</h2>
 
 <p>The Simple Calculator (Python) version is perfect for all your basic arithmetic needs. It's simple, straightforward, and gets the job done without any fuss. No need to be a math genius to use it!</p>
+<img src = "https://user-images.githubusercontent.com/88302656/222095989-f0d29f42-d78e-4bef-bcc2-c610d2a12ba8.png">
 
 <h3>Installation</h3>
 
