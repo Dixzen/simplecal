@@ -16,6 +16,10 @@
             {
                 btntext='/';
             }
+            if(btntext=='mod'){
+             
+                btntext='%';
+            }
             screen.value+=btntext;
         });
     }
